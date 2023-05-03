@@ -24,7 +24,8 @@
     <li><a href="https://github.com/brucewzj99/data-analytics-casestudy/tree/main/share">Share</a></li>
     <li><a href="https://github.com/brucewzj99/data-analytics-casestudy/tree/main/act">Act</a></li>
     <li><a href="#acknowledgments">Acknowledgments</a></li>
-<br />
+<br/>
+
 _To note: All analysis and visualization is done using R programming, hence any code block shown is in R_
 
 <!-- CASE STUDY -->

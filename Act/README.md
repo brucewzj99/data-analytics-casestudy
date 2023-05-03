@@ -1,5 +1,5 @@
-<!-- PROCESS -->
-# Process
+<!-- ACT -->
+# Act
 
 ## Case Study Roadmap
 Guiding Questions
@@ -40,6 +40,13 @@ Reason: The reason for the first 2 recommendations is because casual riders tend
 
 Reason: This might entice casual since they fit into this profile of lesser ride counts, but longer ride duration.
 
-...And With that we have come to the end of the case study.
+Other recommendation that i might suggest which might/might not negatively impact their casual rider are...
+
+4. Impose a surcharge during weekends and peak hours for Single Ride and Day Pass, which might appeal casual riders to upgrade to an annual membership but at the same time might push casuals away from using the service during this peak period.
+
+5. Provide new membership types such as weekend only, to entice the casual riders that ride only on weekends to sign up for this membership.
+
+
+... and with that we have come to the end of the case study. Thanks for taking your time out to look at my case study.
 
 <p align="right">(<a href="https://github.com/brucewzj99/data-analytics-casestudy#contact">back to main</a>)</p>
