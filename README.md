@@ -37,7 +37,7 @@ Key Points:
 
 - Cyclistic offers a variety of bikes, catering to a diverse customer base
 - The company's pricing plans include single-ride passes, full-day passes, and annual memberships
-- Casual riders who purchase single-ride or full-day passes, while annual members are those who subscribe to the yearly plan. 
+- Casual riders are those who purchase single-ride or full-day passes, while annual members are those who subscribe to the yearly plan. 
 - Annual members are more profitable than casual riders
 - The marketing analytics team will analyze historical bike trip data to identify trends and customer preferences
 - The resulting insights will guide the development of a targeted marketing campaign aimed at converting casual riders into annual members
