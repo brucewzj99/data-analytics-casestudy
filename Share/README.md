@@ -38,11 +38,11 @@ ggplot(avg_ride_length_by_month, aes(x = month, y=avg_ride_length, fill=member_c
   labs(x = "Month", y = "Average Ride Length", title=("Average Ride Length by Month"))
 ```
 
-![average ride length by month viz](https://github.com/brucewzj99/data-analytics-casestudy/tree/main/Images/average_ride_length_by_month_viz.png)
+![average ride length by month viz](https://github.com/brucewzj99/data-analytics-casestudy/blob/main/Images/average_ride_length_by_month_viz.png)
 
 I then apply a facet_wrap(~rideable_type) to farther break down into the respective bikes.
 
-![average ride length by month by bike viz](https://github.com/brucewzj99/data-analytics-casestudy/tree/main/Images/average_ride_length_by_month_bike_viz.png)
+![average ride length by month by bike viz](https://github.com/brucewzj99/data-analytics-casestudy/blob/main/Images/average_ride_length_by_month_bike_viz.png)
 
 2. Visualisation of avg_ride_length_by_day
 ```sh
@@ -54,11 +54,11 @@ ggplot(avg_ride_length_by_day, aes(x = day_of_week, y=avg_ride_length, fill=memb
   geom_bar(stat = "identity", position = "identity") +
   labs(x = "Days", y = "Average Ride Length", title=("Average Ride Length by Days In a Week"))
 ```
-![average ride length by day viz](https://github.com/brucewzj99/data-analytics-casestudy/tree/main/Images/average_ride_length_by_day_viz.png)
+![average ride length by day viz](https://github.com/brucewzj99/data-analytics-casestudy/blob/main/Images/average_ride_length_by_day_viz.png)
 
 I then apply a facet_wrap(~rideable_type) to farther break down into the respective bikes.
 
-![average ride length by day by bike viz](https://github.com/brucewzj99/data-analytics-casestudy/tree/main/Images/average_ride_length_by_day_bike_viz.png)
+![average ride length by day by bike viz](https://github.com/brucewzj99/data-analytics-casestudy/blob/main/Images/average_ride_length_by_day_bike_viz.png)
 
 3. Visualisation of hourly_ridership
 ```sh
@@ -75,7 +75,7 @@ ggplot(summarized_by_month_hourly_ridership, aes(x=hour, y=total_ride_count, col
   facet_wrap(~month)
 ```
 
-![hourly ride monthly viz](https://github.com/brucewzj99/data-analytics-casestudy/tree/main/Images/hourly_ride_monthly_viz.png)
+![hourly ride monthly viz](https://github.com/brucewzj99/data-analytics-casestudy/blob/main/Images/hourly_ride_monthly_viz.png)
 
 I also break down the hourly_ridership into the two different bike
 ```sh
@@ -93,7 +93,7 @@ ggplot(summarized_hourly_ridership_rideable_type, aes(x=hour, y=total_ride_count
   caption="Data retrieve from Apr 2022 - Mar 2023") +
   facet_wrap(~rideable_type)
 ```
-![hourly ride bike viz](https://github.com/brucewzj99/data-analytics-casestudy/tree/main/Images/hourly_ride_bike_viz.png)
+![hourly ride bike viz](https://github.com/brucewzj99/data-analytics-casestudy/blob/main/Images/hourly_ride_bike_viz.png)
 
 As well as breaking it down by day_of_week
 ```sh
@@ -111,7 +111,7 @@ ggplot(summarized_hourly_ridership_day_of_week, aes(x=hour, y=total_ride_count, 
   caption="Data retrieve from Apr 2022 - Mar 2023") +
   facet_wrap(~day_of_week)
 ```
-![hourly ride day of week viz](https://github.com/brucewzj99/data-analytics-casestudy/tree/main/Images/hourly_ride_day_of_week_viz.png)
+![hourly ride day of week viz](https://github.com/brucewzj99/data-analytics-casestudy/blob/main/Images/hourly_ride_day_of_week_viz.png)
 
 ## Observation
 
