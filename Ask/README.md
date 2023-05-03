@@ -23,9 +23,8 @@ Deliverable
 
 To do: 
 - [ ] Find out why casual and annual members differ
-- [ ] How digital media could affect their marketing tactics
 
 ## Business task
 > How can we design data-driven marketing strategies to effectively convert casual members into annual members
 
-<p align="right">(<a href="https://github.com/brucewzj99/data-analytics-casestudy/tree/master/prepare">next | prepare</a>)</p>
+<p align="right">(<a href="https://github.com/brucewzj99/data-analytics-casestudy/tree/main/Prepare">next | prepare</a>)</p>

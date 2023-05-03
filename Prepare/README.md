@@ -21,11 +21,11 @@ Deliverable
 - A description of all data sources used
 
 ## Data source
-The data source is acquired from [divvy-bikes](https://divvy-tripdata.s3.amazonaws.com/index.html) made available by Motivate International Inc. under this [licence] (https://ride.divvybikes.com/data-license-agreement). Due to data-privacy issues, the data prohibits anyone from using riders’ personally identifiable information. This means that I won’t be able to connect pass purchases to credit card numbers to determine if casual riders live in the Cyclistic service area or if they have purchased multiple single passes.
+The data source is acquired from [divvy-bikes](https://divvy-tripdata.s3.amazonaws.com/index.html) made available by Motivate International Inc. under this [licence](https://ride.divvybikes.com/data-license-agreement). Due to data-privacy issues, the data prohibits anyone from using riders’ personally identifiable information. This means that I won’t be able to connect pass purchases to credit card numbers to determine if casual riders live in the Cyclistic service area or if they have purchased multiple single passes.
 
 For the prepare phase, I will be using datasets from March 2022 to February 2023.
 <details>
-<summary>Datasets _(Retrieve 1 May 2023)_:</summary>
+<summary>Datasets <i>(Retrieve 1 May 2023)</i>:</summary>
 <ul>
   <li>202203-divvy-tripdata.zip</li>
   <li>202204-divvy-tripdata.zip</li>
@@ -48,7 +48,6 @@ After downloading and extracting all the files, “202209-divvy-publictripdata.c
 The tripdata is then imported over to R Studio
 
 ```sh
-# R Studio
 # Prepare
 ## Loading csv files into environment
 apr_22 <- read.csv("202204-divvy-tripdata.csv")
@@ -65,4 +64,4 @@ feb_23 <- read.csv("202302-divvy-tripdata.csv")
 mar_23 <- read.csv("202303-divvy-tripdata.csv")
 ```
 
-<p align="right">(<a href="https://github.com/brucewzj99/data-analytics-casestudy/tree/master/process">next | process</a>)</p>
+<p align="right">(<a href="https://github.com/brucewzj99/data-analytics-casestudy/tree/main/process">next | process</a>)</p>
