@@ -9,7 +9,7 @@
   <p align="center">
     How Does a Bike-Share Navigate Speedy Success?
     <br />
-    <a href="CaseStudy.pdf"><strong>Explore the docs »</strong></a>
+    <a href="https://docs.google.com/presentation/d/1MwDRhwZ-gVwOnCrFXXV5utJ4urqTasPl1OA2P6_drJU/edit?usp=sharing"><strong>See the 14 slides presentation »</strong></a>
     <br />
   </p>
 </div>
