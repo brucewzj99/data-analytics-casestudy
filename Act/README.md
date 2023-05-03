@@ -40,4 +40,6 @@ Reason: The reason for the first 2 recommendations is because casual riders tend
 
 Reason: This might entice casual since they fit into this profile of lesser ride counts, but longer ride duration.
 
-<p align="right">(<a href="https://github.com/brucewzj99/data-analytics-casestudy">back to main</a>)</p>
+...And With that we have come to the end of the case study.
+
+<p align="right">(<a href="https://github.com/brucewzj99/data-analytics-casestudy#contact">back to main</a>)</p>

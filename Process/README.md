@@ -45,7 +45,7 @@ str(feb_23)
 str(mar_23)
 ```
 
-![Data Consistency](https://github.com/brucewzj99/data-analytics-casestudy/tree/main/Images/check-consistency.png)
+![Data Consistency](https://github.com/brucewzj99/data-analytics-casestudy/blob/main/Images/check-consistency.png)
 
 This was the output, which shows that the data type and column is consistent.
 
@@ -61,7 +61,7 @@ I also did some check to ensure that the members and ride type is consistent
 unique(all_trips$member_casual)
 unique(all_trips$rideable_type)
 ```
-![Member and Rideable Type](https://github.com/brucewzj99/data-analytics-casestudy/tree/main/Images/check-member-rideable-type.png)
+![Member and Rideable Type](https://github.com/brucewzj99/data-analytics-casestudy/blob/main/Images/check-member-rideable-type.png)
 
 The output shows that there is only 2 members type and 3 ride type
 
@@ -101,8 +101,8 @@ all_trips_clean <- all_trips %>%
 summary(all_trips_clean)
 head(all_trips_clean)
 ```
-![NA end lat and long](https://github.com/brucewzj99/data-analytics-casestudy/tree/main/Images/all-trips-clean-na.png)
+![NA end lat and long](https://github.com/brucewzj99/data-analytics-casestudy/blob/main/Images/all-trips-clean-na.png)
 
 The output shows that there were some NA's for end latitude and longitude, but since I won't be analysising these information, i decide to keep those affected datas and continue
 
-<p align="right">(<a href="https://github.com/brucewzj99/data-analytics-casestudy/tree/main/analyze">next | analyze</a>)</p>
+<p align="right">(<a href="https://github.com/brucewzj99/data-analytics-casestudy/tree/main/Analyze">next | analyze</a>)</p>

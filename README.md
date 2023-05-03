@@ -4,7 +4,7 @@
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
- <img src="Images/banner.png">
+ <img src="https://github.com/brucewzj99/data-analytics-casestudy/blob/main/Images/Banner.png">
   <h3 align="center">Google Data Analytic Capstone</h3>
   <p align="center">
     How Does a Bike-Share Navigate Speedy Success?
@@ -25,7 +25,7 @@
     <li><a href="https://github.com/brucewzj99/data-analytics-casestudy/tree/main/act">Act</a></li>
     <li><a href="#acknowledgments">Acknowledgments</a></li>
 <br />
-To note: All analysis and visualization is done through R programming
+_To note: All analysis and visualization is done using R programming, hence any code block shown is in R_
 
 <!-- CASE STUDY -->
 ## Case Study
@@ -46,14 +46,16 @@ Key Points:
 <!-- CONTACT -->
 ## Contact
 
-Bruce Wang- hello@brucewzj.com
+Bruce Wang: hello@brucewzj.com
+
+LinkedIn: [https://www.linkedin.com/in/brucewzj/](https://www.linkedin.com/in/brucewzj/)
 
 Project Link: [https://github.com/brucewzj99/data-analytics-casestudy](https://github.com/brucewzj99/data-analytics-casestudy)
 
 <!-- LICENSE -->
 ## License
 
-Distributed under the GNU General Public License v3.0. See `LICENSE.txt` for more information.
+Distributed under the GNU General Public License v3.0. See [LICENSE.txt](https://github.com/brucewzj99/data-analytics-casestudy/blob/main/LICENSE) for more information.
 
 <!-- ACKNOWLEDGMENTS -->
 ## Acknowledgments

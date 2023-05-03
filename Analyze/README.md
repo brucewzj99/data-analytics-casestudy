@@ -52,7 +52,7 @@ arlbm_casual <- avg_ride_length_by_month %>%
 summary(arlbm_casual)
 ### Mean: 19.879
 ```
-![avg ride length by month](https://github.com/brucewzj99/data-analytics-casestudy/tree/main/Images/average_ride_length_by_month.png)
+![avg ride length by month](https://github.com/brucewzj99/data-analytics-casestudy/blob/main/Images/average_ride_length_by_month.png)
 
 The output shows that the average mean for member is 11.509 while casual is 19.879
 
@@ -70,7 +70,7 @@ arlbd_x <- avg_ride_length_by_day %>%
 summary(arlbd_x)
 ### Mon: 16.83, Tue: 15.65, Wed: 15.18, Thur: 15.72, Fri: 16.34, Sat:18.81, Sun: 18.95
 ```
-![avg ride length by day](https://github.com/brucewzj99/data-analytics-casestudy/tree/main/Images/average_ride_length_by_day.png)
+![avg ride length by day](https://github.com/brucewzj99/data-analytics-casestudy/blob/main/Images/average_ride_length_by_day.png)
 
 This is just one example for one of the day, the average ride length for each day is as follow - Mon: 16.83, Tue: 15.65, Wed: 15.18, Thur: 15.72, Fri: 16.34, Sat:18.81, Sun: 18.95
 
@@ -95,9 +95,10 @@ hourly_ridership_casual %>%
 summary(hourly_ridership_casual)
 ### Median 61
 ```
-![hourly ride member](https://github.com/brucewzj99/data-analytics-casestudy/tree/main/Images/hourly_ride_member.png)
+![hourly ride member](https://github.com/brucewzj99/data-analytics-casestudy/blob/main/Images/hourly_ride_member.png)
 
-![hourly ride casual](https://github.com/brucewzj99/data-analytics-casestudy/tree/main/Images/hourly_ride_casual.png)
+![hourly ride casual](https://github.com/brucewzj99/data-analytics-casestudy/blob/main/Images/hourly_ride_casual.png)
+
 The output shows the mean, median and maximum ride count for each hour daily.
 
 ## Observation
@@ -115,4 +116,4 @@ Casual ride longer duration, this might be due to...
 The average ride on weekends is longer, this might be due to...
 - Not being a working day, hence more riders might use it to ride for longer duration
 
-<p align="right">(<a href="https://github.com/brucewzj99/data-analytics-casestudy/tree/main/share">next | share</a>)</p>
+<p align="right">(<a href="https://github.com/brucewzj99/data-analytics-casestudy/tree/main/Share">next | share</a>)</p>

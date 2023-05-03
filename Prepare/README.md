@@ -64,4 +64,4 @@ feb_23 <- read.csv("202302-divvy-tripdata.csv")
 mar_23 <- read.csv("202303-divvy-tripdata.csv")
 ```
 
-<p align="right">(<a href="https://github.com/brucewzj99/data-analytics-casestudy/tree/main/process">next | process</a>)</p>
+<p align="right">(<a href="https://github.com/brucewzj99/data-analytics-casestudy/tree/main/Process">next | process</a>)</p>
