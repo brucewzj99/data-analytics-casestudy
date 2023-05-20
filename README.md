@@ -18,11 +18,11 @@
 <summary>Table of Contents</summary>
     <li><a href="#CaseStudy.pdf">Case Study</a></li>
     <li><a href="https://github.com/brucewzj99/data-analytics-casestudy/tree/main/Ask">Ask</a></li>
-    <li><a href="https://github.com/brucewzj99/data-analytics-casestudy/tree/main/prepare">Prepare</a></li>
-    <li><a href="https://github.com/brucewzj99/data-analytics-casestudy/tree/main/process">Process</a></li>
-    <li><a href="https://github.com/brucewzj99/data-analytics-casestudy/tree/main/analyze">Analyze</a></li>
-    <li><a href="https://github.com/brucewzj99/data-analytics-casestudy/tree/main/share">Share</a></li>
-    <li><a href="https://github.com/brucewzj99/data-analytics-casestudy/tree/main/act">Act</a></li>
+    <li><a href="https://github.com/brucewzj99/data-analytics-casestudy/tree/main/Prepare">Prepare</a></li>
+    <li><a href="https://github.com/brucewzj99/data-analytics-casestudy/tree/main/Process">Process</a></li>
+    <li><a href="https://github.com/brucewzj99/data-analytics-casestudy/tree/main/Analyze">Analyze</a></li>
+    <li><a href="https://github.com/brucewzj99/data-analytics-casestudy/tree/main/Share">Share</a></li>
+    <li><a href="https://github.com/brucewzj99/data-analytics-casestudy/tree/main/Act">Act</a></li>
     <li><a href="#acknowledgments">Acknowledgments</a></li>
 <br/>
 
